@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pyttsx3
+Version: 2.6
+Summary: 
+An OFFLINE Python Text to Speech library (TTS) which works for both python3 and python2.
+This library very usefull especially if you don't want any delay in the speech produced and don't want to depend only on the internet for TTS conversion.
+It also supports multiple TTS engines like Sapi5 , nsss , espeak .
+
+Home-page: https://github.com/nateshmbhat/pyttsx3
+Author: Natesh M Bhat
+Author-email: nateshmbhatofficial@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/nateshmbhat/pyttsx3/archive/v2.6.tar.gz
+Description: UNKNOWN
+Keywords: ivona,pyttsx for python3,TTS for python3,pyttsx3,text to speech for python,tts,text to speech,speech,speech synthesis,offline text to speech,offline tts,gtts
+Platform: UNKNOWN

@@ -1,0 +1,17 @@
+Tips For Create ChatBot with Python :
+1. create a dictionary containing common 
+greetings as keys and their response as value
+Ex : {"hai": "Hello, My name is Sudo, and i am your new virtual assistant"}
+
+2. Set 5 to 10 basic questions and their answer
+Ex : What time is it?
+
+3. For external questions, you can use modules like wikipedia or webbrowser
+Ex : Who is Bill Gates?
+
+4. Try to use module like PYTTSX3 for text to speech conversion
+
+5. Use modules like speech recognation for voice commands
+
+This was the basic logic for a chatbot dude, now define your own logic. 
+Thanks
